@@ -1,0 +1,10 @@
+E:\Tugas GUI\Kalkulator_gita\Kalkulator_gita\bin\Debug\Kalkulator_gita.exe.config
+E:\Tugas GUI\Kalkulator_gita\Kalkulator_gita\bin\Debug\Kalkulator_gita.exe
+E:\Tugas GUI\Kalkulator_gita\Kalkulator_gita\bin\Debug\Kalkulator_gita.pdb
+E:\Tugas GUI\Kalkulator_gita\Kalkulator_gita\bin\Debug\Kalkulator_gita.xml
+E:\Tugas GUI\Kalkulator_gita\Kalkulator_gita\obj\Debug\Kalkulator_gita.Resources.resources
+E:\Tugas GUI\Kalkulator_gita\Kalkulator_gita\obj\Debug\Kalkulator_gita.vbproj.GenerateResource.Cache
+E:\Tugas GUI\Kalkulator_gita\Kalkulator_gita\obj\Debug\Kalkulator_gita.exe
+E:\Tugas GUI\Kalkulator_gita\Kalkulator_gita\obj\Debug\Kalkulator_gita.xml
+E:\Tugas GUI\Kalkulator_gita\Kalkulator_gita\obj\Debug\Kalkulator_gita.pdb
+E:\Tugas GUI\Kalkulator_gita\Kalkulator_gita\obj\Debug\Kalkulator_gita.Form1.resources
